@@ -14,4 +14,27 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+
+    <string-array name="words">
+        <item>CHARGER</item>
+        <item>COMPUTER</item>
+        <item>TABLET</item>
+        <item>SYSTEM</item>
+        <item>APPLICATION</item>
+        <item>INTERNET</item>
+        <item>STYLUS</item>
+        <item>ANDROID</item>
+        <item>KEYBOARD</item>
+        <item>SMARTPHONE</item>
+    </string-array>
+
+    <string name="crash_string">Crash detection</string>
+    <string name="Theft_string">Theft detection</string>
+    <string name="lock_small_string">Tap to lock</string>
+    <string name="unlock_small_string">Tap to unlock</string>
+    <string name="locked_string">LOCKED</string>
+    <string name="unlocked_string">UNLOCKED</string>
+    <string name="lock_caps_string">TAP TO LOCK</string>
+    <string name="unlock_caps_string">TAP TO UNLOCK</string>
+    <string name="no_ellipse_string">No Ellipse Connected</string>
 </resources>
